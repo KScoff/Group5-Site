@@ -1,0 +1,15 @@
+user documentation
+
+The user can navigate the site using the sidebar located on the left side of the page.
+
+Each member of the group has their own page containing their presentation material.
+
+These pages can be navigated by scrolling down until all the content on the page has been seen.
+
+Users can click images contained on the site to receive a full screen view of the image.
+
+Documentation is also located on the sidebar so unfamiliar users can find it quickly if needed.
+ 
+One of the pages of the site (Jenny.html) contains a button that the user can click to be redirected to another page containing the included diagram.
+
+

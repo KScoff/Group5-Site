@@ -1,0 +1,8 @@
+technical documentation
+
+The foundations of the site were built using a bootstrap theme named matrix admin.(https://matrixadmin.wrappixel.com/). Aspects of the theme were then changed and adapted
+to match final design mockups. This included changing the structure of the pages, the number of pages in total, and the content on each page, this process was done primarily using HTML
+
+The site is split into 5 different main html based pages, these are for the members of the group and documentation, both user, and technical.
+
+Other technlogies used in the creation of the site include Javascript, SCSS and CSS.
